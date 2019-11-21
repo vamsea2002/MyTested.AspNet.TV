@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicReflectionDemo", "DynamicReflectionDemo\DynamicReflectionDemo.csproj", "{EF042705-9E85-4D16-8E80-BC5809020588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoolLibrary", "CoolLibrary\CoolLibrary.csproj", "{1914F6DA-2DEB-442F-BAE3-0083E5B729CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF042705-9E85-4D16-8E80-BC5809020588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF042705-9E85-4D16-8E80-BC5809020588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF042705-9E85-4D16-8E80-BC5809020588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF042705-9E85-4D16-8E80-BC5809020588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1914F6DA-2DEB-442F-BAE3-0083E5B729CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1914F6DA-2DEB-442F-BAE3-0083E5B729CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1914F6DA-2DEB-442F-BAE3-0083E5B729CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1914F6DA-2DEB-442F-BAE3-0083E5B729CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87421D2F-0980-4397-8DD1-5222D8B47B9A}
+	EndGlobalSection
+EndGlobal
