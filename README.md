@@ -45,6 +45,7 @@
 
 ## Lessons
 
+- **CRASHING the C# Compiler in 10 Lines of Code!** - [Video](https://www.youtube.com/watch?v=Y6mewjYg7N8) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/CRASHING%20the%20C%23%20Compiler%20in%2010%20Lines%20of%20Code!)
 - **Folder-by-Type Project Structure in ASP.NET CORE 3.0** - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/Folder-by-Type%20Project%20Structure%20in%20ASP.NET%20CORE%203.0)
   - **Part 1 - Initial Clean Up** - [Video](https://www.youtube.com/watch?v=hD6RI0J4mt0)
   - **Part 2 - Data Layer** - [Video](https://www.youtube.com/watch?v=3QjqOV1CtLc)
