@@ -45,5 +45,6 @@
 
 ## Lessons
 
+- **How to TEST ASP.NET Core 2.2 Web Applications with My Tested ASP.NET** - [Video](https://www.youtube.com/watch?v=Tf2P-410Za4) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/How%20to%20TEST%20ASP.NET%20Core%202.2%20Web%20Applications%20with%20My%20Tested%20ASP.NET)
 - **Beautify UGLY C# Reflection Code by Using the Dynamic Type** - [Video](https://www.youtube.com/watch?v=GQ2KZIcUxDM) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/Beautify%20UGLY%20C%23%20Reflection%20Code%20by%20Using%20the%20Dynamic%20Type)
 - **OPTIMIZE C# Reflection Up to 10 Times by Using Delegates** - [Video](https://www.youtube.com/watch?v=2Akdz4Ukdxc) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/OPTIMIZE%20C%23%20Reflection%20Up%20to%2010%20Times%20by%20Using%20Delegates)
