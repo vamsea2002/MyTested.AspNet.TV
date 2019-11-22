@@ -45,6 +45,14 @@
 
 ## Lessons
 
+- **Folder-by-Type Project Structure in ASP.NET CORE 3.0** - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/Folder-by-Type%20Project%20Structure%20in%20ASP.NET%20CORE%203.0)
+  - **Part 1 - Initial Clean Up** - [Video](https://www.youtube.com/watch?v=hD6RI0J4mt0)
+  - **Part 2 - Data Layer** - [Video](https://www.youtube.com/watch?v=3QjqOV1CtLc)
+  - **Part 3 - Service Layer** - [Video](https://www.youtube.com/watch?v=wHzGXyUwMkI)
+  - **Part 4 - Controller Layer** - [Video](https://www.youtube.com/watch?v=Bbm3buoTxqQ)
+  - **Part 5 - Mapping Objects with AutoMapper** - [Video](https://www.youtube.com/watch?v=pdcrgABgaiY)
+- **Using C# Expression Trees in ASP.NET Controllers (A PRACTICAL EXAMPLE)** - [Video](https://www.youtube.com/watch?v=Ne90i6Q3Ohc) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/Using%20C%23%20Expression%20Trees%20in%20ASP.NET%20Controllers%20(A%20PRACTICAL%20EXAMPLE))
+- **C# Expression Trees are NOT SCARY (Let's Start with the Basics)** - [Video](https://www.youtube.com/watch?v=Glfz0FDPfXk) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/C%23%20Expression%20Trees%20are%20NOT%20SCARY%20(Let's%20Start%20with%20the%20Basics))
 - **How to TEST ASP.NET Core 2.2 Web Applications with My Tested ASP.NET** - [Video](https://www.youtube.com/watch?v=Tf2P-410Za4) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/How%20to%20TEST%20ASP.NET%20Core%202.2%20Web%20Applications%20with%20My%20Tested%20ASP.NET)
 - **Beautify UGLY C# Reflection Code by Using the Dynamic Type** - [Video](https://www.youtube.com/watch?v=GQ2KZIcUxDM) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/Beautify%20UGLY%20C%23%20Reflection%20Code%20by%20Using%20the%20Dynamic%20Type)
 - **OPTIMIZE C# Reflection Up to 10 Times by Using Delegates** - [Video](https://www.youtube.com/watch?v=2Akdz4Ukdxc) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/OPTIMIZE%20C%23%20Reflection%20Up%20to%2010%20Times%20by%20Using%20Delegates)
