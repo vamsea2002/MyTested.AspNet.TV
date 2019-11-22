@@ -43,8 +43,18 @@
   </tbody>
 </table>
 
+## Playlists
+
+- **Delegates and Events** - [Videos](https://www.youtube.com/watch?v=2_fcNVcCDZo&list=PLLGdqRi7N09ZpC4k8Aoz4dH4QYcdAyjwM)
+- **Reflection Tips & Tricks** - [Videos](https://www.youtube.com/watch?v=2Akdz4Ukdxc&list=PLLGdqRi7N09YCpyRvi_QLPAhOXDl7s84M)
+- **Expression Trees** - [Videos](https://www.youtube.com/watch?v=Glfz0FDPfXk&list=PLLGdqRi7N09bkk8FVqUH4l3eJjgt8KntA)
+- **Entity Framework Performance Tips** - [Videos](https://www.youtube.com/watch?v=Iv0FAFJoXbI&list=PLLGdqRi7N09Yv1kSFXi40dnEAJriaE8nJ)
+- **Folder-by-Type Project Structure in ASP.NET CORE 3.0** - [Videos](https://www.youtube.com/watch?v=hD6RI0J4mt0&list=PLLGdqRi7N09Yh2Wq0TDzMmLrIWIeO1sIV)
+
 ## Lessons
 
+- **SUPER Fast Object Creation with C# Expression Trees** - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/SUPER%20Fast%20Object%20Creation%20with%20C%23%20Expression%20Trees)
+  - **Part 1 - Empty Constructor** - [Video](https://www.youtube.com/watch?v=Iv0FAFJoXbI)
 - **Don't SUCK With Entity Framework - Performance Tips** - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/Don't%20SUCK%20With%20Entity%20Framework%20-%20Performance%20Tips)
   - **Part 1 - N + 1 Query Problem** - [Video](https://www.youtube.com/watch?v=Iv0FAFJoXbI)
   - **Part 2 - Lazy Loading Proxies** - [Video](https://www.youtube.com/watch?v=9z_uk7ZrON0)
