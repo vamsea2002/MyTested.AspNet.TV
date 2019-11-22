@@ -45,6 +45,23 @@
 
 ## Lessons
 
+- **Don't SUCK With Entity Framework - Performance Tips** - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/Don't%20SUCK%20With%20Entity%20Framework%20-%20Performance%20Tips)
+  - **Part 1 - N + 1 Query Problem** - [Video](https://www.youtube.com/watch?v=Iv0FAFJoXbI)
+  - **Part 2 - Lazy Loading Proxies** - [Video](https://www.youtube.com/watch?v=9z_uk7ZrON0)
+  - **Part 3 - Select &ast;** - [Video](https://www.youtube.com/watch?v=zsR_9RmsFIo)
+  - **Part 4 - Data Loading** - [Video](https://www.youtube.com/watch?v=uFnw2ItIB98)
+  - **Part 5 - Optimizing Delete** - [Video](https://www.youtube.com/watch?v=HHbYMWdnVtA)
+  - **Part 6 - Cold vs Warm Queries** - [Video](https://www.youtube.com/watch?v=Ru7UNv-KTss)
+  - **Part 7 - Compiled Queries** - [Video](https://www.youtube.com/watch?v=ut7y8QycZyU)
+  - **Part 8 - Change Tracking** - [Video](https://www.youtube.com/watch?v=X9un5y7073c)
+  - **Part 9 - Final Thoughts** - [Video](https://www.youtube.com/watch?v=okB8DgYDZPo)
+- **Let's be LAZY and Use Reflection - AutoMapper Edition** - [Video](https://www.youtube.com/watch?v=dt0nf0B9500) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/Let's%20be%20LAZY%20and%20Use%20Reflection%20-%20AutoMapper%20Edition)
+- **Let's be LAZY and Use Reflection - AutoMapper Edition** - [Video](https://www.youtube.com/watch?v=dt0nf0B9500) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/Let's%20be%20LAZY%20and%20Use%20Reflection%20-%20AutoMapper%20Edition)
+- **Let's be LAZY and Use Reflection - ASP.NET Core Services Edition** - [Video](https://www.youtube.com/watch?v=NVExYgeLgmU) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/Let's%20be%20LAZY%20and%20Use%20Reflection%20-%20ASP.NET%20Core%20Services%20Edition)
+- **C# EVENTS for Dummies** - [Video](https://www.youtube.com/watch?v=i0lnTVtwYT8) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/C%23%20EVENTS%20for%20Dummies)
+- **C# ACTION and FUNC for Dummies** - [Video](https://www.youtube.com/watch?v=XD-1hO9PXDg) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/C%23%20ACTION%20and%20FUNC%20for%20Dummies)
+- **C# DELEGATES for Dummies** - [Video](https://www.youtube.com/watch?v=2_fcNVcCDZo) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/C%23%20DELEGATES%20for%20Dummies)
+- **TOP 5 Books Every C# Developer Should READ** - [Video](https://www.youtube.com/watch?v=8QKNLkwuHNw)
 - **CRASHING the C# Compiler in 10 Lines of Code!** - [Video](https://www.youtube.com/watch?v=Y6mewjYg7N8) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/CRASHING%20the%20C%23%20Compiler%20in%2010%20Lines%20of%20Code!)
 - **Folder-by-Type Project Structure in ASP.NET CORE 3.0** - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/Folder-by-Type%20Project%20Structure%20in%20ASP.NET%20CORE%203.0)
   - **Part 1 - Initial Clean Up** - [Video](https://www.youtube.com/watch?v=hD6RI0J4mt0)
