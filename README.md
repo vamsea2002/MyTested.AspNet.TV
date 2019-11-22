@@ -66,7 +66,6 @@
   - **Part 8 - Change Tracking** - [Video](https://www.youtube.com/watch?v=X9un5y7073c)
   - **Part 9 - Final Thoughts** - [Video](https://www.youtube.com/watch?v=okB8DgYDZPo)
 - **Let's be LAZY and Use Reflection - AutoMapper Edition** - [Video](https://www.youtube.com/watch?v=dt0nf0B9500) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/Let's%20be%20LAZY%20and%20Use%20Reflection%20-%20AutoMapper%20Edition)
-- **Let's be LAZY and Use Reflection - AutoMapper Edition** - [Video](https://www.youtube.com/watch?v=dt0nf0B9500) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/Let's%20be%20LAZY%20and%20Use%20Reflection%20-%20AutoMapper%20Edition)
 - **Let's be LAZY and Use Reflection - ASP.NET Core Services Edition** - [Video](https://www.youtube.com/watch?v=NVExYgeLgmU) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/Let's%20be%20LAZY%20and%20Use%20Reflection%20-%20ASP.NET%20Core%20Services%20Edition)
 - **C# EVENTS for Dummies** - [Video](https://www.youtube.com/watch?v=i0lnTVtwYT8) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/C%23%20EVENTS%20for%20Dummies)
 - **C# ACTION and FUNC for Dummies** - [Video](https://www.youtube.com/watch?v=XD-1hO9PXDg) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/C%23%20ACTION%20and%20FUNC%20for%20Dummies)
