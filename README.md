@@ -65,7 +65,7 @@
   - **Part 3 - Bug Hunting** - [Video](https://www.youtube.com/watch?v=Kp-VKShpqdc)
 - **PLAYING and TESTING with Fast Expression Compiler** - [Video](https://www.youtube.com/watch?v=ZuGpdCGR0vg) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/PLAYING%20and%20TESTING%20with%20Fast%20Expression%20Compiler)
 - **What is Fast Expression Compiler** - [Video](https://www.youtube.com/watch?v=iav3XGiXfCg) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/SUPER%20Fast%20Property%20Getters%20with%20C%23%20Expression%20Trees)
-- **SUPER Fast Property Getters with C# Expression Trees** - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/SUPER%20Fast%20Property%20Getters%20with%20C%23%20Expression%20Trees)
+- **SUPER Fast Property Getters with C# Expression Trees** - [Video](https://www.youtube.com/watch?v=7qwnOxmrOvw) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/SUPER%20Fast%20Property%20Getters%20with%20C%23%20Expression%20Trees)
 - **SUPER Fast Object Creation with C# Expression Trees** - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/SUPER%20Fast%20Object%20Creation%20with%20C%23%20Expression%20Trees)
   - **Part 1 - Empty Constructor** - [Video](https://www.youtube.com/watch?v=Iv0FAFJoXbI)
   - **Part 2 - Multiple Constructor Parameters** - [Video](https://www.youtube.com/watch?v=hiJJ9jK0B7Y)
