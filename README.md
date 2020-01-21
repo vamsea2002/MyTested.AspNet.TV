@@ -50,6 +50,7 @@
 
 ## Playlists
 
+- **Live Coding Sessions** - [Videos](https://www.youtube.com/watch?v=ztuR-Yh1S7Y&list=PLLGdqRi7N09afEVKS8Ysid5fMRYi6iB_d)
 - **Delegates and Events** - [Videos](https://www.youtube.com/watch?v=2_fcNVcCDZo&list=PLLGdqRi7N09ZpC4k8Aoz4dH4QYcdAyjwM)
 - **Reflection Tips & Tricks** - [Videos](https://www.youtube.com/watch?v=2Akdz4Ukdxc&list=PLLGdqRi7N09YCpyRvi_QLPAhOXDl7s84M)
 - **Expression Trees** - [Videos](https://www.youtube.com/watch?v=Glfz0FDPfXk&list=PLLGdqRi7N09bkk8FVqUH4l3eJjgt8KntA)
@@ -58,8 +59,16 @@
 
 ## Lessons
 
+- **LIVE CODING - Deep Equality Algorithm in My Tested ASP.NET** - [Source Code](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc/blob/development/src/MyTested.AspNetCore.Mvc.Abstractions/Utilities/Reflection.cs#L464)
+  - **Part 1 - Explanation** - [Video](https://www.youtube.com/watch?v=ztuR-Yh1S7Y)
+  - **Part 2 - Implementing Error Reports** - [Video](https://www.youtube.com/watch?v=r0sKSqaNkgk)
+  - **Part 3 - Bug Hunting** - [Video](https://www.youtube.com/watch?v=Kp-VKShpqdc)
+- **PLAYING and TESTING with Fast Expression Compiler** - [Video](https://www.youtube.com/watch?v=ZuGpdCGR0vg) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/PLAYING%20and%20TESTING%20with%20Fast%20Expression%20Compiler)
+- **What is Fast Expression Compiler** - [Video](https://www.youtube.com/watch?v=iav3XGiXfCg) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/SUPER%20Fast%20Property%20Getters%20with%20C%23%20Expression%20Trees)
+- **SUPER Fast Property Getters with C# Expression Trees** - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/SUPER%20Fast%20Property%20Getters%20with%20C%23%20Expression%20Trees)
 - **SUPER Fast Object Creation with C# Expression Trees** - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/SUPER%20Fast%20Object%20Creation%20with%20C%23%20Expression%20Trees)
   - **Part 1 - Empty Constructor** - [Video](https://www.youtube.com/watch?v=Iv0FAFJoXbI)
+  - **Part 2 - Multiple Constructor Parameters** - [Video](https://www.youtube.com/watch?v=hiJJ9jK0B7Y)
 - **Don't SUCK With Entity Framework - Performance Tips** - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/Don't%20SUCK%20With%20Entity%20Framework%20-%20Performance%20Tips)
   - **Part 1 - N + 1 Query Problem** - [Video](https://www.youtube.com/watch?v=Iv0FAFJoXbI)
   - **Part 2 - Lazy Loading Proxies** - [Video](https://www.youtube.com/watch?v=9z_uk7ZrON0)
