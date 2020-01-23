@@ -59,6 +59,7 @@
 
 ## Lessons
 
+- **Embracing NON-NULLABLE Reference Types in C# 8.0** - [Video](https://www.youtube.com/watch?v=mk3wFUHNj74) - [Source Code](https://github.com/ivaylokenov/MyTested.AspNet.TV/tree/master/src/Embracing%20NON-NULLABLE%20Reference%20Types%20in%20C%23%208.0)
 - **LIVE CODING - Deep Equality Algorithm in My Tested ASP.NET** - [Source Code](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc/blob/development/src/MyTested.AspNetCore.Mvc.Abstractions/Utilities/Reflection.cs#L464)
   - **Part 1 - Explanation** - [Video](https://www.youtube.com/watch?v=ztuR-Yh1S7Y)
   - **Part 2 - Implementing Error Reports** - [Video](https://www.youtube.com/watch?v=r0sKSqaNkgk)
